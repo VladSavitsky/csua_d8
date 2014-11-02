@@ -3,6 +3,8 @@
 /**
  * @file
  * FAQ page callbacks for the "hide answer" layouts.
+ *
+ * TODO: this file shouldn't be updated because of migration to TWIG.
  */
 
 use Drupal\faq\FaqHelper;
